@@ -1,2 +1,2 @@
 # Codewars-Ruby-Answers
-My solutions for codewars.com, ruby languages.s
+My solutions for Ruby on codewars.com
