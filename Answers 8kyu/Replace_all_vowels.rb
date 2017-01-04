@@ -1,3 +1,3 @@
 def replace(s)
-  s.gsub(/[aeiouAEIOU]/, '!')
+  s.gsub(/[aeiou]/i, '!')
 end
