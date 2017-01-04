@@ -10,5 +10,5 @@ def grader(score)
       'B'
   else
     'A'
-end
+  end
 end
